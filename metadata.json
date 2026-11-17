@@ -1,0 +1,6 @@
+{
+  "name": "PyLab Python 互動學習教室",
+  "description": "專為初學者與進階學習者設計的 Python 教學平台，結合視覺化概念模型、即時互動式程式碼編輯器與自動批改線上練習題庫。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
